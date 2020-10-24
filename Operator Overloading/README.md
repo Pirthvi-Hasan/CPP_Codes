@@ -4,15 +4,15 @@ This folder contains programs demonstrating the use of Operator_Overloading Conc
 
 1. Write a C++ program to create a class called TIME. Include data members of hours, minutes and seconds.  Using operator overloading, overload the following operators 
 
-•	Arithmetic operators
+    => Arithmetic operators
 
-•	Relational operators
+    => Relational operators
 
-•	Assignment operator
+    => Assignment operator
 
-•	Compound assignment operators
+    => Compound assignment operators
 
-•	Unary operators
+    => Unary operators
 
 
 2. Create a class String to represent a string. Overload the + operator to concatenate 2 strings, <=, == , >= to compare 2 strings.
